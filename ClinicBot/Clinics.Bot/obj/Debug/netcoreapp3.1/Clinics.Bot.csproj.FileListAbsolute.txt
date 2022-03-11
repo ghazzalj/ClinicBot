@@ -11,3 +11,14 @@ D:\currPrj\Clinics.Bot\obj\Debug\netcoreapp3.1\Clinics.Bot.dll
 D:\currPrj\Clinics.Bot\obj\Debug\netcoreapp3.1\Clinics.Bot.pdb
 D:\currPrj\Clinics.Bot\obj\Debug\netcoreapp3.1\Clinics.Bot.genruntimeconfig.cache
 D:\currPrj\Clinics.Bot\obj\Debug\netcoreapp3.1\Clinics.Bot.csproj.AssemblyReference.cache
+C:\Users\Ghazzak\Documents\GitHub\ClinicBot\ClinicBot\Clinics.Bot\bin\Debug\netcoreapp3.1\Clinics.Bot.deps.json
+C:\Users\Ghazzak\Documents\GitHub\ClinicBot\ClinicBot\Clinics.Bot\bin\Debug\netcoreapp3.1\Clinics.Bot.runtimeconfig.json
+C:\Users\Ghazzak\Documents\GitHub\ClinicBot\ClinicBot\Clinics.Bot\bin\Debug\netcoreapp3.1\Clinics.Bot.runtimeconfig.dev.json
+C:\Users\Ghazzak\Documents\GitHub\ClinicBot\ClinicBot\Clinics.Bot\bin\Debug\netcoreapp3.1\Clinics.Bot.dll
+C:\Users\Ghazzak\Documents\GitHub\ClinicBot\ClinicBot\Clinics.Bot\bin\Debug\netcoreapp3.1\Clinics.Bot.pdb
+C:\Users\Ghazzak\Documents\GitHub\ClinicBot\ClinicBot\Clinics.Bot\obj\Debug\netcoreapp3.1\Clinics.Bot.csproj.AssemblyReference.cache
+C:\Users\Ghazzak\Documents\GitHub\ClinicBot\ClinicBot\Clinics.Bot\obj\Debug\netcoreapp3.1\Clinics.Bot.csproj.CoreCompileInputs.cache
+C:\Users\Ghazzak\Documents\GitHub\ClinicBot\ClinicBot\Clinics.Bot\obj\Debug\netcoreapp3.1\Clinics.Bot.AssemblyInfoInputs.cache
+C:\Users\Ghazzak\Documents\GitHub\ClinicBot\ClinicBot\Clinics.Bot\obj\Debug\netcoreapp3.1\Clinics.Bot.AssemblyInfo.cs
+C:\Users\Ghazzak\Documents\GitHub\ClinicBot\ClinicBot\Clinics.Bot\obj\Debug\netcoreapp3.1\Clinics.Bot.dll
+C:\Users\Ghazzak\Documents\GitHub\ClinicBot\ClinicBot\Clinics.Bot\obj\Debug\netcoreapp3.1\Clinics.Bot.pdb

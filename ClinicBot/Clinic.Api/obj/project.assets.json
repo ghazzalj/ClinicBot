@@ -3128,7 +3128,10 @@
         },
         "runtime": {
           "bin/placeholder/Clinic.Common.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Clinics.Bot/1.0.0": {
         "type": "project",
@@ -3146,7 +3149,10 @@
         },
         "runtime": {
           "bin/placeholder/Clinics.Bot.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -9604,19 +9610,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ghazz\\.nuget\\packages\\": {}
+    "C:\\Users\\Ghazzak\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\currPrj\\Clinic.Api\\Clinic.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Ghazzak\\Documents\\GitHub\\ClinicBot\\ClinicBot\\Clinic.Api\\Clinic.Api.csproj",
       "projectName": "Clinic.Api",
-      "projectPath": "D:\\currPrj\\Clinic.Api\\Clinic.Api.csproj",
-      "packagesPath": "C:\\Users\\ghazz\\.nuget\\packages\\",
-      "outputPath": "D:\\currPrj\\Clinic.Api\\obj\\",
+      "projectPath": "C:\\Users\\Ghazzak\\Documents\\GitHub\\ClinicBot\\ClinicBot\\Clinic.Api\\Clinic.Api.csproj",
+      "packagesPath": "C:\\Users\\Ghazzak\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ghazzak\\Documents\\GitHub\\ClinicBot\\ClinicBot\\Clinic.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ghazz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ghazzak\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9630,11 +9636,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\currPrj\\Clinic.Common\\Clinic.Common.csproj": {
-              "projectPath": "D:\\currPrj\\Clinic.Common\\Clinic.Common.csproj"
+            "C:\\Users\\Ghazzak\\Documents\\GitHub\\ClinicBot\\ClinicBot\\Clinic.Common\\Clinic.Common.csproj": {
+              "projectPath": "C:\\Users\\Ghazzak\\Documents\\GitHub\\ClinicBot\\ClinicBot\\Clinic.Common\\Clinic.Common.csproj"
             },
-            "D:\\currPrj\\Clinics.Bot\\Clinics.Bot.csproj": {
-              "projectPath": "D:\\currPrj\\Clinics.Bot\\Clinics.Bot.csproj"
+            "C:\\Users\\Ghazzak\\Documents\\GitHub\\ClinicBot\\ClinicBot\\Clinics.Bot\\Clinics.Bot.csproj": {
+              "projectPath": "C:\\Users\\Ghazzak\\Documents\\GitHub\\ClinicBot\\ClinicBot\\Clinics.Bot\\Clinics.Bot.csproj"
             }
           }
         }
@@ -9700,7 +9706,15 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

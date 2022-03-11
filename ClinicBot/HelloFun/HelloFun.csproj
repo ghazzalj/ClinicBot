@@ -8,6 +8,7 @@
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="3.0.10" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Clinic.Api\Clinic.Api.csproj" />
     <ProjectReference Include="..\Clinic.Common\Clinic.Common.csproj" />
     <ProjectReference Include="..\Clinics.Bot\Clinics.Bot.csproj" />
   </ItemGroup>
