@@ -1,0 +1,12 @@
+D:\currPrj\Clinics.Bot\bin\Release\net5.0\Clinics.Bot.deps.json
+D:\currPrj\Clinics.Bot\bin\Release\net5.0\Clinics.Bot.dll
+D:\currPrj\Clinics.Bot\bin\Release\net5.0\ref\Clinics.Bot.dll
+D:\currPrj\Clinics.Bot\bin\Release\net5.0\Clinics.Bot.pdb
+D:\currPrj\Clinics.Bot\obj\Release\net5.0\Clinics.Bot.csproj.AssemblyReference.cache
+D:\currPrj\Clinics.Bot\obj\Release\net5.0\Clinics.Bot.GeneratedMSBuildEditorConfig.editorconfig
+D:\currPrj\Clinics.Bot\obj\Release\net5.0\Clinics.Bot.AssemblyInfoInputs.cache
+D:\currPrj\Clinics.Bot\obj\Release\net5.0\Clinics.Bot.AssemblyInfo.cs
+D:\currPrj\Clinics.Bot\obj\Release\net5.0\Clinics.Bot.csproj.CoreCompileInputs.cache
+D:\currPrj\Clinics.Bot\obj\Release\net5.0\Clinics.Bot.dll
+D:\currPrj\Clinics.Bot\obj\Release\net5.0\ref\Clinics.Bot.dll
+D:\currPrj\Clinics.Bot\obj\Release\net5.0\Clinics.Bot.pdb

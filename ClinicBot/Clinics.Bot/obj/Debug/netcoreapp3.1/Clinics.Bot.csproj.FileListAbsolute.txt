@@ -1,0 +1,13 @@
+D:\currPrj\Clinics.Bot\bin\Debug\netcoreapp3.1\Clinics.Bot.deps.json
+D:\currPrj\Clinics.Bot\bin\Debug\netcoreapp3.1\Clinics.Bot.runtimeconfig.json
+D:\currPrj\Clinics.Bot\bin\Debug\netcoreapp3.1\Clinics.Bot.runtimeconfig.dev.json
+D:\currPrj\Clinics.Bot\bin\Debug\netcoreapp3.1\Clinics.Bot.dll
+D:\currPrj\Clinics.Bot\bin\Debug\netcoreapp3.1\Clinics.Bot.pdb
+D:\currPrj\Clinics.Bot\obj\Debug\netcoreapp3.1\Clinics.Bot.GeneratedMSBuildEditorConfig.editorconfig
+D:\currPrj\Clinics.Bot\obj\Debug\netcoreapp3.1\Clinics.Bot.AssemblyInfoInputs.cache
+D:\currPrj\Clinics.Bot\obj\Debug\netcoreapp3.1\Clinics.Bot.AssemblyInfo.cs
+D:\currPrj\Clinics.Bot\obj\Debug\netcoreapp3.1\Clinics.Bot.csproj.CoreCompileInputs.cache
+D:\currPrj\Clinics.Bot\obj\Debug\netcoreapp3.1\Clinics.Bot.dll
+D:\currPrj\Clinics.Bot\obj\Debug\netcoreapp3.1\Clinics.Bot.pdb
+D:\currPrj\Clinics.Bot\obj\Debug\netcoreapp3.1\Clinics.Bot.genruntimeconfig.cache
+D:\currPrj\Clinics.Bot\obj\Debug\netcoreapp3.1\Clinics.Bot.csproj.AssemblyReference.cache
